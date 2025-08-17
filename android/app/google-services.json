@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576124495328",
+    "project_id": "twitter-f4efb",
+    "storage_bucket": "twitter-f4efb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576124495328:android:e42149174c2c7755227785",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfSADDCkZhya6poi1iwUxCLcijDsssLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
